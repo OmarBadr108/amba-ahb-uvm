@@ -1,0 +1,357 @@
+m255
+K4
+z2
+Z0 !s99 nomlopt
+R0
+!s11f MIXED_VERSIONS
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z1 dD:/Ali/courses_git_repo/amba-ahb/sim/scripts
+T_opt
+!s110 1724340921
+V6Rh[P7Qg>e[DWOAVf9E3T3
+Z2 04 3 4 work top fast 0
+=1-98fa9b0fdbb6-66c75ab8-359-206c
+Z3 !s124 OEM100
+o-quiet -auto_acc_if_foreign -work work
+Z4 tCvgOpt 0
+n@_opt
+Z5 OL;O;2021.1;73
+R1
+T_opt1
+!s110 1724341029
+VEnNk5;aVgf]4dm54IjDlk3
+R2
+=1-98fa9b0fdbb6-66c75b25-c8-2480
+R3
+o-quiet -auto_acc_if_foreign -work work +acc
+R4
+n@_opt1
+R5
+vahb2ahb
+Z6 !s110 1724340979
+!i10b 1
+!s100 98>`NFg<bkQaOC[JmP5<>0
+IUXUC1ok3>Z:]i@PeE9XfW3
+R1
+Z7 w1572834563
+8../../rtl/ahb_to_ahb/design/verilog/ahb2ahb.v
+F../../rtl/ahb_to_ahb/design/verilog/ahb2ahb.v
+!i122 11
+L0 32 154
+Z8 VDg1SIo80bB@j0V0VzS_@n1
+Z9 OL;L;2021.1;73
+r1
+!s85 0
+31
+Z10 !s108 1724340979.000000
+Z11 !s107 ../../rtl/ahb_to_ahb/bench/verilog//bfm_ahb_tasks.v|../../rtl/amba_ahb/bench/verilog/top.v|../../rtl/amba_ahb/design/verilog/amba_ahb_m2s3.v|../../rtl/amba_ahb/design/verilog/ahb_m2s_m2.v|../../rtl/amba_ahb/design/verilog/ahb_arbiter_m2.v|../../rtl/bfm_ahb_task/design/verilog/mem_ahb.v|../../rtl/ahb_to_ahb/bench/verilog/bfm_ahb_tasks.v|../../rtl/ahb_to_ahb/bench/verilog/bfm_ahb.v|../../rtl/ahb_to_ahb/design/verilog/ahb2ahb_slave_core.v|../../rtl/ahb_to_ahb/design/verilog/ahb2ahb_master_core.v|../../rtl/ahb_to_ahb/design/verilog/ahb2ahb_fifo.v|../../rtl/ahb_to_ahb/design/verilog/ahb2ahb.v|../../rtl/ahb_lite/design/verilog/ahb_s2m_s3.v|../../rtl/ahb_lite/design/verilog/ahb_lite_s3.v|../../rtl/ahb_lite/design/verilog/ahb_default_slave.v|../../rtl/ahb_lite/design/verilog/ahb_decoder_s3.v|
+Z12 !s90 -f|compile_files.f|
+!i113 0
+Z13 o-L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+Z14 !s92 +incdir+../../rtl/ahb_to_ahb/bench/verilog/ -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R4
+vahb2ahb_fifo
+R6
+!i10b 1
+!s100 i[8=FHI[TVG^Cnk3?JZGR1
+IWX6b8@^QQTg;Ab?Hz=ohT1
+R1
+R7
+8../../rtl/ahb_to_ahb/design/verilog/ahb2ahb_fifo.v
+F../../rtl/ahb_to_ahb/design/verilog/ahb2ahb_fifo.v
+!i122 11
+L0 41 119
+R8
+R9
+r1
+!s85 0
+31
+R10
+R11
+R12
+!i113 0
+R13
+R14
+R4
+vahb2ahb_master_core
+R6
+!i10b 1
+!s100 ]45<QE7PIaPlOEhjAFR0n2
+IzEKQ8`za<X7kml0QdU8]D0
+R1
+R7
+8../../rtl/ahb_to_ahb/design/verilog/ahb2ahb_master_core.v
+F../../rtl/ahb_to_ahb/design/verilog/ahb2ahb_master_core.v
+!i122 11
+L0 21 304
+R8
+R9
+r1
+!s85 0
+31
+R10
+R11
+R12
+!i113 0
+R13
+R14
+R4
+vahb2ahb_slave_core
+R6
+!i10b 1
+!s100 5znm_D`CkF78?KLcUgQj52
+I;NkcKi17352XL@nXnDkYJ3
+R1
+R7
+8../../rtl/ahb_to_ahb/design/verilog/ahb2ahb_slave_core.v
+F../../rtl/ahb_to_ahb/design/verilog/ahb2ahb_slave_core.v
+!i122 11
+L0 21 211
+R8
+R9
+r1
+!s85 0
+31
+R10
+R11
+R12
+!i113 0
+R13
+R14
+R4
+vahb_arbiter_m2
+R6
+!i10b 1
+!s100 Sz9j3PJ;iQ_KA3bF=F7?B1
+IOfh:G`GdeK`oZJf>a_oBS1
+R1
+R7
+8../../rtl/amba_ahb/design/verilog/ahb_arbiter_m2.v
+F../../rtl/amba_ahb/design/verilog/ahb_arbiter_m2.v
+!i122 11
+L0 15 66
+R8
+R9
+r1
+!s85 0
+31
+R10
+R11
+R12
+!i113 0
+R13
+R14
+R4
+vahb_decoder_s3
+R6
+!i10b 1
+!s100 `JQSzFgzNJMU??Ahz2gA03
+IJ<:mkfeIRh?P7FPOFON3c3
+R1
+R7
+8../../rtl/ahb_lite/design/verilog/ahb_decoder_s3.v
+F../../rtl/ahb_lite/design/verilog/ahb_decoder_s3.v
+!i122 11
+L0 14 92
+R8
+R9
+r1
+!s85 0
+31
+R10
+R11
+R12
+!i113 0
+R13
+R14
+R4
+vahb_default_slave
+R6
+!i10b 1
+!s100 a]?_BE5]J;@IkS]EB8@D93
+I1AiYZAUG7DnO9odzHlZn53
+R1
+R7
+8../../rtl/ahb_lite/design/verilog/ahb_default_slave.v
+F../../rtl/ahb_lite/design/verilog/ahb_default_slave.v
+!i122 11
+L0 16 70
+R8
+R9
+r1
+!s85 0
+31
+R10
+R11
+R12
+!i113 0
+R13
+R14
+R4
+vahb_lite_s3
+R6
+!i10b 1
+!s100 `1KMEh=]9gMc88Ga83k=d0
+I?6KaKYU0NbmZ=g1]NM4k;2
+R1
+R7
+8../../rtl/ahb_lite/design/verilog/ahb_lite_s3.v
+F../../rtl/ahb_lite/design/verilog/ahb_lite_s3.v
+!i122 11
+L0 15 112
+R8
+R9
+r1
+!s85 0
+31
+R10
+R11
+R12
+!i113 0
+R13
+R14
+R4
+vahb_m2s_m2
+R6
+!i10b 1
+!s100 Sd[`T^X[;C_dcMzjzT_g:2
+IPSZ0W?C3ihX8E:5F<oMT^3
+R1
+R7
+8../../rtl/amba_ahb/design/verilog/ahb_m2s_m2.v
+F../../rtl/amba_ahb/design/verilog/ahb_m2s_m2.v
+!i122 11
+L0 14 84
+R8
+R9
+r1
+!s85 0
+31
+R10
+R11
+R12
+!i113 0
+R13
+R14
+R4
+vahb_s2m_s3
+R6
+!i10b 1
+!s100 N^M:1^kh`Bc1]l84XE1MO2
+I]OP9U6BIVDfFfh]VnGC1f0
+R1
+R7
+8../../rtl/ahb_lite/design/verilog/ahb_s2m_s3.v
+F../../rtl/ahb_lite/design/verilog/ahb_s2m_s3.v
+!i122 11
+L0 12 67
+R8
+R9
+r1
+!s85 0
+31
+R10
+R11
+R12
+!i113 0
+R13
+R14
+R4
+vamba_ahb_m2s3
+R6
+!i10b 1
+!s100 <e@6@2I72Ne]OlCZoO]bm1
+IBkoh>gk9=FP9?5FdRVD`e3
+R1
+R7
+8../../rtl/amba_ahb/design/verilog/amba_ahb_m2s3.v
+F../../rtl/amba_ahb/design/verilog/amba_ahb_m2s3.v
+!i122 11
+L0 14 145
+R8
+R9
+r1
+!s85 0
+31
+R10
+R11
+R12
+!i113 0
+R13
+R14
+R4
+vbfm_ahb
+R6
+!i10b 1
+!s100 Vz1:3VbPiRLcdTZF@hoPH2
+IdNVH]c3TTTHEIH>FX4VDj1
+R1
+R7
+8../../rtl/ahb_to_ahb/bench/verilog/bfm_ahb.v
+F../../rtl/ahb_to_ahb/bench/verilog/bfm_ahb.v
+F../../rtl/ahb_to_ahb/bench/verilog//bfm_ahb_tasks.v
+!i122 11
+L0 19 398
+R8
+R9
+r1
+!s85 0
+31
+R10
+R11
+R12
+!i113 0
+R13
+R14
+R4
+vmem_ahb
+R6
+!i10b 1
+!s100 C2=2ScQFBoLH4kQg=NgC@1
+IM<Z`7h?;;Zg>6Hb<<Ko`:1
+R1
+R7
+8../../rtl/bfm_ahb_task/design/verilog/mem_ahb.v
+F../../rtl/bfm_ahb_task/design/verilog/mem_ahb.v
+!i122 11
+L0 16 197
+R8
+R9
+r1
+!s85 0
+31
+R10
+R11
+R12
+!i113 0
+R13
+R14
+R4
+vtop
+R6
+!i10b 1
+!s100 <HgB034QhX7OG8d`50aQm2
+I0FBjShCcXM0DLXKLkEzUX1
+R1
+R7
+8../../rtl/amba_ahb/bench/verilog/top.v
+F../../rtl/amba_ahb/bench/verilog/top.v
+!i122 11
+L0 17 156
+R8
+R9
+r1
+!s85 0
+31
+R10
+R11
+R12
+!i113 0
+R13
+R14
+R4
